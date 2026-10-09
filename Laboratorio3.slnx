@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ejercicio21/Ejercicio21.vcxproj" Id="f0f365f2-c5ac-4841-89af-f0afb2e869ac" />
+  <Project Path="Ejercicio23/Ejercicio23.vcxproj" Id="8bce8db8-37f9-4eec-b5bf-1efd938c7646" />
+  <Project Path="Ejercicio25/Ejercicio25.vcxproj" Id="c08619a4-dbc8-4e10-8ca9-7ca5360c4935" />
+</Solution>
